@@ -1,0 +1,36 @@
+# Core dependencies
+streamlit==1.28.1
+numpy==1.24.3
+pandas==2.0.3
+
+# AI/ML libraries
+openai-whisper==20230918
+google-generativeai==0.3.1
+langdetect==1.0.9
+
+# Audio processing
+sounddevice==0.4.6
+pygame==2.5.2
+gtts==2.3.2
+scipy==1.11.3
+
+# Translation
+translate==3.6.1
+
+# Web scraping and requests
+requests==2.31.0
+wikipedia==1.4.0
+
+# PDF generation
+fpdf2==2.7.6
+
+# System integration
+psutil==5.9.5
+
+# For .exe creation (optional)
+pyinstaller==6.0.0
+auto-py-to-exe==2.41.0
+
+# Additional utilities
+python-dotenv==1.0.0
+packaging==23.2
